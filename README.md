@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![bfury's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfury)](https://github.com/bfury/github-readme-stats)
+
+
 <!--
 **bfury/bfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
